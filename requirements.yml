@@ -1,5 +1,0 @@
----
-collections:
-  - name: community.general # Provides useful system utilities
-  - name: ansible.posix # Includes networking tools (for firewall rules)
-roles: []

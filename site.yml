@@ -1,6 +1,0 @@
----
-- name: Configure WireGuard VPN Server
-  hosts: all
-  become: yes
-  roles:
-    - wireguard
